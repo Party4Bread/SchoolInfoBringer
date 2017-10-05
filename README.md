@@ -7,7 +7,7 @@
 
 뭐 그래도 [아희](https://aheui.github.io/)  보다야....
 
-======================
+
 
 ## 1. 쓰는법
 
@@ -37,7 +37,7 @@ sel.schoolarea#학교구역(int)
 sel.schooltype#학교종류(int)
 ```
 
-======================
+
 
 ## 2. 학교구역? 학교종류?
 
@@ -73,9 +73,9 @@ sel.schooltype#학교종류(int)
 3. 중학교
 4. 고등학교
 
-======================
+
 
 ## 3.그래서 어따쓰는데?
 
-글세요 샘플 넣어놨으니 암 봐보세요
+글세요 [샘플](https://github.com/Party4Bread/SchoolInfoBringer/blob/master/source/schoolcodesample.py) 넣어놨으니 암 봐보세요
 
